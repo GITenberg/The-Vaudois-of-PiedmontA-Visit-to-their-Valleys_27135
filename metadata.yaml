@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32486'
     url: http://www.gutenberg.org/2009/agents/32486
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27135#The-Vaudois-of-PiedmontA-Visit-to-their-Valleys
 gutenberg_issued: '2008-11-04'
 gutenberg_type: Text
 identifiers:
